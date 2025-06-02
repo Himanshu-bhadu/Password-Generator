@@ -1,12 +1,31 @@
-# React + Vite
+# 🔐 Password Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean, responsive, and customizable password generator built using **React JS**. This tool allows users to generate strong, random passwords with various options for length, inclusion of numbers, and special characters.
 
-Currently, two official plugins are available:
+![Password Generator Screenshot](./e94b006e-904d-4f2e-9f10-714733167b9e.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🎯 Select password length using a slider
+- 🔢 Toggle inclusion of **numbers**
+- 🔣 Toggle inclusion of **special characters**
+- 🧠 One-click **password generation**
+- 📋 **Copy to clipboard** functionality
+- 🌙 Clean and modern UI design
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js (v14+ recommended)
+- npm or yarn
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Himanshu-bhadu/Language_Translator.git
