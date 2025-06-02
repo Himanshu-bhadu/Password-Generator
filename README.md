@@ -16,15 +16,3 @@ A clean, responsive, and customizable password generator built using **React JS*
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Node.js (v14+ recommended)
-- npm or yarn
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Himanshu-bhadu/Language_Translator.git
