@@ -2,7 +2,6 @@
 
 A clean, responsive, and customizable password generator built using **React JS**. This tool allows users to generate strong, random passwords with various options for length, inclusion of numbers, and special characters.
 
-![Password Generator Screenshot](./e94b006e-904d-4f2e-9f10-714733167b9e.png)
 
 ---
 
